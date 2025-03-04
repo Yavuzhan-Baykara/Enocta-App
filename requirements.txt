@@ -1,0 +1,8 @@
+flask
+streamlit
+requests
+torch
+transformers
+runpod
+uvicorn
+fastapi
