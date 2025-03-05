@@ -26,7 +26,7 @@ if [ -n "$PUBLIC_KEY" ]; then
 fi
 
 # Start the SSH daemon
-exec /usr/sbin/sshd -D &
+/usr/sbin/sshd -D &
 
 # Start Jupyter Lab
 echo "🔄 Jupyter Lab başlatılıyor..."
@@ -39,3 +39,6 @@ export LD_PRELOAD="${TCMALLOC}"
 # RunPod Serverless Handler başlat
 echo "🔄 RunPod Handler başlatılıyor..."
 python3 -u /workspace/rp_handler.py
+
+# Ensure container doesn't stop by tailing a log or keeping it alive
+tail -f /dev/null

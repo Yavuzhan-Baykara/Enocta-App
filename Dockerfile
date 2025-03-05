@@ -36,6 +36,8 @@ COPY script/* ${WORKDIR}/.
 
 COPY script/llm_service.py ${WORKDIR}/llm_service.py
 COPY script/rp_handler.py ${WORKDIR}/rp_handler.py
+COPY script/rag.py ${WORKDIR}/rag.py
+
 
 ARG PYTORCH_VERSION
 RUN --mount=type=cache,target=/root/.cache/pip \

@@ -1,6 +1,6 @@
 {
     "input": {
-        "text": "Merhaba, nasılsın?",
-        "max_tokens": 100
+        "text": "Taner Özdeş kimdir?",
+        "max_tokens": 1024
     }
 }
