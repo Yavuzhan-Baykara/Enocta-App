@@ -33,6 +33,7 @@ ENV HUGGINGFACE_ACCESS_TOKEN=${HUGGINGFACE_ACCESS_TOKEN}
 
 
 COPY script/* ${WORKDIR}/.
+COPY script/* ${WORKDIR}/.
 
 COPY script/llm_service.py ${WORKDIR}/llm_service.py
 COPY script/rp_handler.py ${WORKDIR}/rp_handler.py

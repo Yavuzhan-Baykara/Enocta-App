@@ -51,8 +51,11 @@ RUN wget --header="Authorization: Bearer ${HUGGINGFACE_ACCESS_TOKEN}" -O models/
 # ------------------------------------------------------------------------------------------------------------------------------------------------
 # ------------------------------------------------------------------------------------------------------------------------------------------------
 
+COPY script/start.sh ${WORKDIR}/start.sh
+COPY script/start.sh .
+
 COPY leader.json .
 COPY test_input.json .
 EXPOSE 8188 8888
 
-CMD ["bash", "/workspace/start.sh"]
+CMD ["bash", "./start.sh"]

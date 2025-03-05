@@ -62,3 +62,4 @@ class Client:
                     {"sender": "bot", "text": bot_response}
                 )
                 st.rerun()
+                
