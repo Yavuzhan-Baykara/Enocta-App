@@ -33,11 +33,11 @@ ENV HUGGINGFACE_ACCESS_TOKEN=${HUGGINGFACE_ACCESS_TOKEN}
 
 
 COPY script/* ${WORKDIR}/.
-COPY script/* ${WORKDIR}/.
 
-COPY script/llm_service.py ${WORKDIR}/llm_service.py
+COPY script/elevenlabs_tts.py ${WORKDIR}/elevenlabs_tts.py
 COPY script/rp_handler.py ${WORKDIR}/rp_handler.py
-COPY script/rag.py ${WORKDIR}/rag.py
+COPY script/rag_model.py ${WORKDIR}/rag_model.py
+COPY script/upload_s3.py ${WORKDIR}/upload_s3.py
 
 
 ARG PYTORCH_VERSION

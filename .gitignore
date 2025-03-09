@@ -1,0 +1,56 @@
+# 🐍 Python dosyaları
+__pycache__/
+*.py[cod]
+*.so
+*.log
+*.sqlite3
+*.db
+.env
+venv/
+.envrc
+*.pyo
+*.pyc
+*.pyd
+*.pdb
+
+# 🐳 Docker dosyaları
+docker-compose.yml
+*.dockerfile
+docker/
+.dockerignore
+
+# 🛠️ VS Code ve IDE ile ilgili dosyalar
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 🛠️ Git & OS sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# 📦 Bağımlılıklar
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 🔥 Log ve Temp Dosyalar
+logs/
+*.log
+nohup.out
+tmp/
+temp/
+
+# ⚙️ Virtual Environment ve Paketleme
+*.egg-info/
+dist/
+build/
+
+# ⚙️ Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# 🚀 Hugging Face veya API tokenlarını içeren dosyalar
+hf_token.json
+hf_auth.json
