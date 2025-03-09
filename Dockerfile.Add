@@ -1,0 +1,12 @@
+FROM yavzan/deepseek-distill-v1:model AS model
+ARG HUGGINGFACE_ACCESS_TOKEN
+ARG WORKDIR
+WORKDIR ${WORKDIR}
+
+
+COPY script/* .
+
+COPY leader.json .
+EXPOSE 8188 8888
+
+CMD ["bash", "./start.sh"]

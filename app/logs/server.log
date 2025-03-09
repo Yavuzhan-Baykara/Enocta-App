@@ -1,0 +1,68 @@
+2025-03-09 14:48:22,007 - INFO - Flask Sunucusu Baþlatýldý
+2025-03-09 14:48:22,049 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.55.137:5001
+2025-03-09 14:48:22,049 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-09 14:48:42,918 - INFO - Gelen istek: sa
+2025-03-09 14:48:42,918 - INFO - 127.0.0.1 - - [09/Mar/2025 14:48:42] "POST /process HTTP/1.1" 200 -
+2025-03-09 14:51:30,041 - INFO - Flask Sunucusu Baþlatýldý
+2025-03-09 14:51:30,072 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.55.137:5001
+2025-03-09 14:51:30,073 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-09 14:52:39,831 - INFO - Flask Sunucusu Baþlatýldý
+2025-03-09 14:52:39,858 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.55.137:5001
+2025-03-09 14:52:39,858 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-09 14:53:05,908 - INFO - Flask Sunucusu Baþlatýldý
+2025-03-09 14:53:05,935 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.55.137:5001
+2025-03-09 14:53:05,935 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-09 14:53:50,128 - INFO - Flask Sunucusu Baþlatýldý
+2025-03-09 14:53:50,155 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.55.137:5001
+2025-03-09 14:53:50,155 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-09 14:57:54,050 - INFO - Flask Sunucusu Baþlatýldý
+2025-03-09 14:57:54,083 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.55.137:5001
+2025-03-09 14:57:54,083 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-09 15:02:19,336 - INFO - Flask Sunucusu Baþlatýldý
+2025-03-09 15:02:19,364 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.55.137:5001
+2025-03-09 15:02:19,364 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-09 15:05:31,295 - INFO - Flask Sunucusu Baþlatýldý
+2025-03-09 15:05:31,322 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.55.137:5001
+2025-03-09 15:05:31,322 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-09 15:07:41,307 - INFO - Flask Sunucusu Baþlatýldý
+2025-03-09 15:07:41,334 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.55.137:5001
+2025-03-09 15:07:41,334 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-09 15:12:10,645 - INFO - Flask Sunucusu Baþlatýldý
+2025-03-09 15:12:10,676 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.55.137:5001
+2025-03-09 15:12:10,676 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-09 18:56:46,948 - INFO - Flask Sunucusu Baþlatýldý
+2025-03-09 18:56:47,005 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.55.137:5001
+2025-03-09 18:56:47,005 - INFO - [33mPress CTRL+C to quit[0m
